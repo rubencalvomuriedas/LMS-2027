@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<especiesAmenazadas>
+    <especie id="sp1" region="India, Nepal, Banglades, Butan">
+        <nombreCientifico>Panthera tigris</nombreCientifico>
+        <nombreComun>Tigre de Bengala</nombreComun>
+        <categoriaAmenaza>En peligro</categoriaAmenaza>
+        <caracteristicas>
+            Pelaje anaranjado con rayas negras
+            Gran tamanno        
+            Peso aproximado 260 kg 
+            Garras retractiles y mandibulas potentes
+        </caracteristicas>
+    </especie>
+    <especie id="sp2" region="Artico">
+        <nombreCientifico>Ursus maritimus</nombreCientifico>
+        <nombreComun>Oso polar</nombreComun>
+        <categoriaAmenaza>Vulnerable</categoriaAmenaza>
+        <caracteristicas>
+            Pelaje blanco grueso
+            Capa de grasa subcutanea extensa
+            Peso aproximado 700 kg
+            Hocico largo y orejas pequennas
+        </caracteristicas>
+    </especie>
+    <especie id="sp3" region="Zonas tropicales del Atlantico, indico y Pacifico">
+        <nombreCientifico>Eretmochelys imbricata</nombreCientifico>
+        <nombreComun>Tortuga</nombreComun>
+        <categoriaAmenaza>En peligro critico</categoriaAmenaza>
+        <caracteristicas>
+            Caparazon con escamas superpuestas de color ambar
+            Pico estrecho y curvado
+            Tamanno hasta 90 cm de largo
+            Peso aproximado 60 kg
+        </caracteristicas>
+    </especie>
+    <especie id="sp4" region="Montannas Virunga">
+        <nombreCientifico>Gorilla beringei beringei</nombreCientifico>
+        <nombreComun>Gorila</nombreComun>
+        <categoriaAmenaza>En peligro</categoriaAmenaza>
+        <caracteristicas>
+            Pelaje negro espeso
+            Machos con espalda plateada
+            Peso aproximado 140 kg 
+            Brazos largos y gran fuerza fisica
+        </caracteristicas>
+    </especie>
+</especiesAmenazadas>

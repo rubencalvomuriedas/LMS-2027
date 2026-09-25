@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itinerario moneda="EUR">
+  <destino id="1">
+    <ciudad>Madrid</ciudad>
+    <pais>Espanna</pais>
+    <llegada>10/07/2025</llegada>
+    <salida>13/07/2025</salida>
+    <actividades>
+      <actividad>
+        <hora>11:00</hora>
+        <tipo>visita</tipo>
+        <descripcion>Visita al Museo del Prado</descripcion>
+        <coste>20.00</coste>
+      </actividad>
+      <actividad>
+        <hora>15:00</hora>
+        <tipo>comida</tipo>
+        <descripcion>Almuerzo en Mercado de San Miguel</descripcion>
+        <coste>30.00</coste>
+      </actividad>
+      <actividad>
+        <hora>20:00</hora>
+        <tipo>espectaculo</tipo>
+        <descripcion>Visital al Bernabeu</descripcion>
+        <coste>45.00</coste>
+      </actividad>
+    </actividades>
+  </destino>
+  <destino id="2">
+    <ciudad>Roma</ciudad>
+    <pais>Italia</pais>
+    <llegada>13/07/2025</llegada>
+    <salida>17/07/2025</salida>
+    <actividades>
+      <actividad>
+        <hora>09:00</hora>
+        <tipo>visita</tipo>
+        <descripcion>Tour por el Coliseo y Foro Romano</descripcion>
+        <coste>35.00</coste>
+      </actividad>
+      <actividad>
+        <hora>14:00</hora>
+        <tipo>comida</tipo>
+        <descripcion>Comida en trattoria local</descripcion>
+        <coste >25.00</coste>
+      </actividad>
+      <actividad>
+        <hora>18:00</hora>
+        <tipo>excursion</tipo>
+        <descripcion>Visita al Vaticano</descripcion>
+        <coste>60.00</coste>
+      </actividad>
+    </actividades>
+  </destino>
+  <destino id="3">
+    <ciudad>Atenas</ciudad>
+    <pais>Grecia</pais>
+    <llegada>17/07/2025</llegada>
+    <salida>21/07/2025</salida>
+    <actividades>
+      <actividad>
+        <hora>10:00</hora>
+        <tipo>excursion</tipo>
+        <descripcion>Excursion a la Acropolis y Museo</descripcion>
+        <coste>25.00</coste>
+      </actividad>
+      <actividad>
+        <hora>13:00</hora>
+        <tipo>comida</tipo>
+        <descripcion>Almuerzo con vista al Partenon</descripcion>
+        <coste>28.00</coste>
+      </actividad>
+      <actividad>
+        <hora>19:00</hora>
+        <tipo>excursion</tipo>
+        <descripcion>Crucero al atardecer por la costa</descripcion>
+        <coste>55.00</coste>
+      </actividad>
+    </actividades>
+  </destino>
+</itinerario>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Realismo>
+    <Movimiento>
+            XIX
+        <Causa>
+            Reaccion al romanticismo
+        </Causa>
+    </Movimiento>
+    <Que>
+        <Representar la realidad>
+            <Como>
+                <Prestando atencion>
+                    Detalles cotidianos
+                    Problemas sociales
+                </Prestando atencion>
+            </Como>
+        </Representar la realidad>
+    </Que>
+    <Donde>
+        <Espana>   
+            Benito Perez Galdos
+        </Espana>
+        <Francia>
+            Gustave Flaubert
+        </Francia>
+        <Inglaterra>
+            Charles Dickens
+        </Inglaterra>
+    </Donde>
+    <Estilo>
+        Influyo en el posterior naturalismo
+    </Estilo>
+</Realismo>

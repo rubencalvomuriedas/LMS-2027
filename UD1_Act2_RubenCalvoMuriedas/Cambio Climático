@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cambio_climatico>
+    <Causas>
+        Emisiones de gases de efecto invernadero
+            <Derivadas>
+                Quema de combustible
+                Deforestacion
+                Ciertas practicas agricolas
+            </Derivadas>
+    </Causas>
+    <Consecuencias>
+        Aumento de temperatura
+        Deshielo
+        Incremento del nivel del Mar
+        Fenomenos meteorologicos extremos
+    </Consecuencias>
+    <Soluciones>
+        Uso de energia renovable
+        Reforestacion
+        Eficiencia energetica
+    </Soluciones>
+</Cambio_climatico>

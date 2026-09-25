@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Baloncesto>
+    <Deporte>
+        <anno> 1891 </anno>
+        <quien> James Naismith </quien>
+        <donde> Springfield </donde>
+    </Deporte>
+    <Normas>
+        <jugadores> 5 jugadores </jugadores>
+        <Objetivo> Anotar puntos </Objetivo>
+    </Normas>
+    <Competiciones>
+        <NBA>
+            EEUU
+        </NBA>
+        <JJOO>
+            1936
+        </JJOO>
+    <Aficionados>
+        Todo el mundo
+    </Aficionados>
+</Baloncesto>

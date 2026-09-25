@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cuerposcelestes>
+  <planeta nombre="Marte">
+    <tipo>gasesoso</tipo>
+    <masa unidad="kg">6.42e23</masa>
+    <diametro unidad="km">6779</diametro>
+    <distanciaalsol unidad="km">227900000</distanciaalsol>
+    <lunas>
+      Fobos
+      Deimos
+    </lunas>
+  </planeta>
+  <planeta nombre="Urano">
+    <tipo>gaseoso</tipo>
+    <masa unidad="kg">8.68e25</masa>
+    <diametro unidad="km">50724</diametro>
+    <distanciaalsol unidad="km">2871000000</distanciaalsol>
+    <lunas>
+      Titania
+      Oberon
+      Umbriel
+      Ariel
+      Miranda
+    </lunas>
+  </planeta>
+  <planeta nombre="Neptuno"> 
+    <tipo>gaseoso</tipo>
+    <masa unidad="kg">1.02e26</masa>
+    <diametro unidad="km">49244</diametro>
+    <distanciaalsol unidad="km">4498000000</distanciaalsol>
+    <lunas>
+      Triton
+      Nereida
+    </lunas>
+  </planeta>
+  <planeta nombre="Pluton">
+    <tipo>rocos-hielo</tipo>
+    <masa unidad="kg">1.31e22</masa>
+    <diametro unidad="km">2377</diametro>
+    <distanciaalsol unidad="km">5906000000</distanciaalsol>
+    <lunas>
+      Caronte
+      Nix
+      Hidra
+      Estigia
+      Cerbero
+    </lunas>
+  </planeta>
+  <planeta nombre="Hale-Bopp" tipo="cometa">
+    <masa unidad="kg">1.0e16</masa>
+    <diametro unidad="km">60</diametro>
+    <orbitas>
+      <tipo>eliptica</tipo>
+      <periodo unidad="años">2533</periodo>
+    </orbitas>
+  </planeta>
+  <planeta nombre="Vesta">
+    <tipo>asteroide</tipo>
+    <masa unidad="kg">2.59e20</masa>
+    <diametro unidad="km">525</diametro>
+    <distanciaalsol unidad="km">353000000</distanciaalsol>    
+  </planeta>
+</cuerposcelestes>

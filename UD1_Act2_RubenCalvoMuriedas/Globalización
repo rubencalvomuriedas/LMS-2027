@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Globalizacion>
+    <Factores>
+        Comercio internacional
+        Inversion extranjera
+        Expansion de las empresas multinacionales
+        <Avances>
+            Comunicaciones
+            Transporte
+        </Avances>
+    </Factores>
+    <Ventajas> 
+        Acceso a mas productos
+        Crecimiento economico
+        Difusion de la innovacion
+    </Ventajas>
+    <Desventajas>
+        Deslocalizacion de empresas
+        Perdida de empleos
+        Aumento de desigualdades
+    </Desventajas>
+</Globalizacion>

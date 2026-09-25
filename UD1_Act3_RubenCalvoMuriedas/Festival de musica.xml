@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<festival nombre="Festival Internacional de Musica">
+  <dia fecha="2025-07-12">
+    <escenario nombre="Escenario 1">
+      <actuacion>
+        <artista>Mago de oz</artista>
+        <hora>18:00</hora>
+        <estilo>Heavy metal</estilo>
+        <canciones>
+          Fiesta pagana
+          La costa del silencio
+          La posada de los muertos
+        </canciones>
+      </actuacion>
+      <actuacion>
+        <artista>Pablo Lopez</artista>
+        <hora>20:30</hora>
+        <estilo>Pop</estilo>
+        <canciones>
+          El patio
+          El mundo
+          Tu enemigo
+        </canciones> 
+      </actuacion>
+    </escenario>
+    <escenario nombre="Escenario 2">
+      <actuacion>
+        <artista>Celtas cortos</artista>
+        <hora>19:00</hora>
+        <estilo>Electronica</estilo>
+        <canciones>
+          20 de abril
+          Cuentame un cuento
+        </canciones>
+      </actuacion>
+      <actuacion>
+        <artista>Daddy Yankee</artista>
+        <hora>22:00</hora>
+        <estilo>Reggaeton</estilo>
+        <canciones>
+          Gasolina
+          Con calma
+          Limbo
+        </canciones>
+      </actuacion>
+    </escenario>
+  </dia>
+  <dia fecha="2025-07-13">
+    <escenario nombre="Escenario 1">
+      <actuacion>
+        <artista>Heroes del silencio</artista>
+        <hora>17:30</hora>
+        <estilo>Rock espannol</estilo>
+        <canciones>
+          Entre dos tierras
+          Despertar
+        </canciones>
+      </actuacion>
+      <actuacion>
+        <artista>Marea</artista>
+        <hora>21:00</hora>
+        <estilo>Rock urbano</estilo>
+        <canciones>
+          Clavado en un bar
+          Labios compartidos
+        </canciones>
+      </actuacion>
+    </escenario>
+    <escenario nombre="Escenario 3">
+      <actuacion>
+        <artista>Fondo Flamenco</artista>
+        <hora>18:15</hora>
+        <estilo>Flamenco</estilo>
+        <canciones>
+          Ojala puediera ir
+          Mi estrella blanca
+          Estrella blanca
+        </canciones>
+      </actuacion>
+      <actuacion>
+        <artista>Crimson Echo</artista>
+        <hora>20:45</hora>
+        <estilo>Metal</estilo>
+        <canciones>
+          Sombras ardientes
+          Grito final
+        </canciones>
+      </actuacion>
+    </escenario>
+  </dia>
+</festival>

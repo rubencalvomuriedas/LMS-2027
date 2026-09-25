@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HTML>
+    <creacion>
+        <anio> 1991 </anio>
+        <quien> Tim Berners-lee </quien>
+        <objetivo> Compartir documentos científicos </objetivo>
+    </creacion>
+<HTML5>
+    <incluye>
+        Elementos para estructurar mejor el contenido
+    <incorporar>
+        Audio
+        Video
+        Graficos
+    </incorporar>
+    </incluye>
+    <Utilizacion>
+        <Visual> CSS </Visual>
+        <Interaccion> JavaCript </interaccion>
+    </Utilizacion>    
+    </HTML5>
+</HTML>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Clima>
+    <Dia fecha="2025-09-25">
+        <Temperatura>
+            <Minima>12</Minima>
+            <Maxima>22</Maxima>
+        </Temperatura>
+        <Humedad>65</Humedad>
+        <Viento>15 km/h</Viento>
+        <Fenomenos>
+            <Lluvia>Ligera</Lluvia>
+        </Fenomenos>
+    </Dia>
+    <Dia fecha="2025-09-26">
+        <Temperatura>
+            <Minima>14</Minima>
+            <Maxima>25</Maxima>
+        </Temperatura>
+        <Humedad>58</Humedad>
+        <Viento>10 km/h</Viento>
+    </Dia>
+    <Dia fecha="2025-09-27">
+        <Temperatura>
+            <Minima>10</Minima>
+            <Maxima>19</Maxima>
+        </Temperatura>
+        <Humedad>70</Humedad>
+        <Viento>20 km/h</Viento>
+        <Fenomenos>
+            <Tormenta>Moderada</Tormenta>
+        </Fenomenos>
+    </Dia>
+    <Dia fecha="2025-09-28">
+        <Temperatura>
+            <Minima>7</Minima>
+            <Maxima>15</Maxima>
+        </Temperatura>
+        <Humedad>80</Humedad>
+        <Viento>25 km/h</Viento>
+        <Fenomenos>
+            <Nieve>Debil</Nieve>
+        </Fenomenos>
+    </Dia>
+    <Dia fecha= "2025-09-29">
+        <Temperatura>
+            <Minima>16</Minima>
+            <Maxima>27</Maxima>
+        </Temperatura>
+        <Humedad>55</Humedad>
+        <Viento>12 km/h</Viento>
+        <Fenomenos>
+            <Lluvia>Intensa</Lluvia>
+        </Fenomenos>
+    </Dia>
+</Clima>

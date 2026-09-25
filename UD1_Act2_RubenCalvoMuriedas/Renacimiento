@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Renacimiento>
+    <fue>
+        <movimiento>
+            cultural
+            artistico
+        </movimiento>
+    </fue>
+    <Donde>
+        <Lugar>
+            Italia
+        </Lugar>
+        <Siglo>
+            XV
+        </Siglo>
+        <Expandio>
+            Toda Europa
+        </Expandio>
+    </Donde>
+    <Caracteristicas>
+        Antropocentrismo
+        Busqueda de la belleza
+        Recuperacion de la cultura grecolatina
+    </Caracteristicas>  
+    <Artistas>
+        Leonardo da Vinci
+        Miguel Angel
+        Rafael
+    </Artistas>
+    <Legado>
+        Pintura
+        Escultura
+        Arquitectura
+    </Legado>
+</Renacimiento>

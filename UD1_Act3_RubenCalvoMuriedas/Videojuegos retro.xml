@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo idioma="es" categoria="videojuegos_retro">
+  <juego consola="PlayStation 1">
+    <titulo>Crash Bandicoot</titulo>
+    <anio>1996</anio>
+    <genero>Plataformas</genero>
+    <personajes>
+       Bandicoot
+      Coco Bandicoot
+    </personajes>
+    <multijugador>no</multijugador>
+  </juego>
+  <juego consola="Sega Dreamcast">
+    <titulo>Crazy Taxi</titulo>
+    <anio>1999</anio>
+    <genero>Arcade / Conduccion</genero>
+    <personajes>
+      Axel
+      BD Joe
+      Gena
+      Gus
+    </personajes>
+    <multijugador>no</multijugador>
+  </juego>
+  <juego consola="Game Boy">
+    <titulo>Pokemon rojo/azul</titulo>
+    <anio>1996</anio>
+    <genero>RPG</genero>
+    <personajes>
+      Charizard
+      Pikachu
+    </personajes>
+    <multijugador>si</multijugador>
+  </juego>
+  <juego consola="Nintendo 64">
+    <titulo>Donkey Kong</titulo>
+    <anio>1999</anio>
+    <genero>Plataformas</genero>
+    <personajes>
+      Donkey Kong
+      Diddy Kong
+    </personajes>
+    <multijugador>no</multijugador>
+  </juego>
+</catalogo>

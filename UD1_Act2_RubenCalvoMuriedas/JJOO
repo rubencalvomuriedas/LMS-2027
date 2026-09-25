@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JJOO>
+    <Inaguracion>  
+        <Donde>
+            Atenas
+        </Donde>
+        <Cuando>
+            1896
+        </Cuando>
+        <Quien>
+            Pierre de Coubertin
+        </Quien>
+    </Inaguracion>
+    <Celebracion>
+        <Fecha>
+            cada 4 annos
+        </Fecha>
+        <Participantes>
+            Todo el mundo
+        </Participantes>
+    </Celebracion>
+    <Disciplinas>
+        Atletismo
+        Natacion
+        Gimnasia
+        Baloncesto
+        Futbol
+    </Disciplinas>
+    <Tipos>
+        <invierno>
+            Esqui
+            Patinaje
+            Hockey sobre hielo
+        </invierno>
+    </Tipos>
+</JJOO> 

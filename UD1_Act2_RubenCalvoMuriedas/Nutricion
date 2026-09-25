@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Nutricion>
+    <nutrientes>
+        Hidratos de carbono
+        Proteinas
+        Grasas
+        Vitaminas
+        Minerales
+    </nutrientes>
+    <Dieta_equilibrada>
+        Alimentos variados
+        Suficiente agua
+    </Dieta_equilibrada>
+    <Malos>
+        Obesidad
+        Diabetes
+        Enfermedades cardiovasculares
+    </Malos>
+    <Buenos>
+        Favorecen la salud
+        Bienestar general
+    </Buenos>
+</Nutricion>

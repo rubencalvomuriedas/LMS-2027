@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum>
+    <datospersonales>
+        <nombre>Ruben Calvo</nombre>
+        <titulo>Electricista</titulo>
+        <fechaNacimiento>1997-10-24</fechaNacimiento>
+        <direccion>
+        <calle>C/ Virgen del camino</calle>
+        <ciudad>Santander</ciudad>
+        <provincia>Cantabria</provincia>
+        <pais>España</pais>
+        <codigoPostal>39006</codigoPostal>
+        </direccion>
+        <contacto>
+            <telefono>693 43 61 82</telefono>
+            <email>rubencalvomuriedas@gmail.com</email>
+            <linkedin>https://www.linkedin.com/in/rubencalvo</linkedin>
+            <github>https://github.com/rubencalvomuriedas</github>
+        </contacto>
+    </datospersonales>    
+    <perfillaboral>
+        <texto>
+            Electricista con 2 años de experiencia laboral con muchas ganas de trabajar y seguir aprendiendo. Me considero una persona trabajadora
+            y con ganas de aprender y dar el maximo.
+        </texto>
+    </perfillaboral>
+    <formacionacademica>
+        <estudio id="1">
+        <titulo>Educacion basica</titulo>
+        <centro>Salesianos Santander</centro>
+        <desde>2000</desde>
+        <hasta>2017</hasta>
+        <ciudad>Santander</ciudad>
+        </estudio>
+        <estudio id="2">
+        <titulo>Grado medio en electricista</titulo>
+        <centro>Salesianos Santander</centro>
+        <desde>2017</desde>
+        <hasta>2020</hasta>
+        <ciudad>Santander</ciudad>
+        </estudio>
+    </formacionacademica> 
+    <experiencialaboral>
+        <trabajo id="1">
+        <empresa>Prysmian SL</empresa>
+        <desde>2020-06-1</desde>
+        <hasta>2020-10-31</hasta>
+        <ubicacion>Maliaño, Cantabria</ubicacion>
+        <responsabilidades>
+            <item>Bobinar el cable</item>
+            <item>Comprobar que no tuviese agujeros</item>
+            <item>Comprobar que fuera bien seligrafiada</item>
+        </responsabilidades>
+        </puesto>
+        <trabajo id="2">
+        <empresa>Edscha</empresa>
+        <desde>2021-05-01</desde>
+        <hasta>2021-07-01</hasta>
+        <ubicacion>Poligono de Guarnizo</ubicacion>
+        <responsabilidades>
+            <item>Realizar bisagras de la Mercedes Kangoo.</item>
+            <item>Comprobar las bisagras de la Mercedes Kangoo esten bien realizadas y comprobar el correcto fincionamiento.</item>
+        </responsabilidades>
+        </puesto>
+    </experiencialaboral>
+    <formacionextra>
+        <dispongo nivel="bajo">Java</dispongo>
+        <idiomas>
+            <idioma nivel="nativo">Español</idioma>
+            <idioma nivel="B2">Ingles</idioma>
+        </idiomas>
+    </formacionextra>   
+    <otrosdatos>
+        <disposicion>De carnet de conduccion de clase B</disposicion>
+    </otrosdatos>
+</curriculum>

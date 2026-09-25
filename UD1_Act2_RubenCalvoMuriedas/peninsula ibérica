@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Peninsula>
+    <Formada>
+        Espana
+        Portugal
+        Andorra
+        Sur de Francia
+        Gibraltar
+    </Formada>
+    <Limita>
+        <Norte>
+            Mar Cantabrico
+            Pirineos
+        </Norte>
+        <Este>
+            Mar Mediterraneo
+        </Este>
+        <Oeste>
+            Oceano Atlantico
+        </Oeste>
+        <Sur>
+            Mar de Alboran
+        </Sur>
+    </Limita>
+    <Relieve>
+        Mesetas centrales
+        Cordilleras perifericas
+        Numerosas costas
+    </Relieve>
+</Peninsula Iberica>
